@@ -33,4 +33,5 @@ public class pruebas {
 		var st = new StringTokenizer(line, " ,");
 		line.split(",");
 	}
+	String s = "hola";
 }
